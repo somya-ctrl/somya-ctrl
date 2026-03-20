@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Somya Agarwal</h1>
-<h3 align="center">💻 Backend-focused Full-Stack Developer</h3>
+<h3 align="center">💻 Full-Stack Developer</h3>
 
 <p align="center">
   B.Tech student passionate about building scalable backend systems and growing into a full-stack developer.
@@ -16,7 +16,7 @@
 
 
 - 🧠 Strong foundation in **Backend Development (Node.js, Express, MongoDB)**
-- 🔨 Building a **Discord Clone** (Auth APIs ✅ | Real-time Messaging ✅)
+- 🔨 Building Syncrova (Auth APIs ✅ | Real-time Messaging ✅)
 - 🌱 Currently learning **React** to expand **Full-Stack** capabilities
 - 🎯 Goal: **Backend / Full-Stack Internship**
 
