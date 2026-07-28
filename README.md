@@ -1,25 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/main/SOMYA%20AGARWAL.png" alt="SOMYA AGARWAL" width="600"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/main/light.svg">
+  <img alt="Somya Agarwal" src="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/main/light.svg">
+</picture>
 
-<h1 align="center">👋 Hi, I'm Somya Agarwal</h1>
-<h3 align="center">💻 Full-Stack Developer</h3>
-
-<p align="center">
-  B.Tech student passionate about building scalable backend systems and growing into a full-stack developer.
-</p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
-
- ## 🚀 About Me
-
-
+## 🚀 About Me
 
 - 🧠 Strong foundation in **Backend Development (Node.js, Express, MongoDB)**
 - 🔨 Building Syncrova (Auth APIs ✅ | Real-time Messaging ✅)
 - 🌱 Currently learning **React** to expand **Full-Stack** capabilities
 - 🎯 Goal: **Backend / Full-Stack Internship**
-
 
 ---
 
@@ -51,33 +41,67 @@
 
 ---
 
+## GitHub Stats
 
-## 📈 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=somya-ctrl&background=0A101F&border=232B3D&ring=A78BFA&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=5B6478&dates=5B6478&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=somya-ctrl&background=F3F4F6&border=D1D5DB&ring=7C3AED&fire=10B981&currStreakNum=111827&sideNums=111827&currStreakLabel=0891B2&sideLabels=9CA3AF&dates=9CA3AF&hide_border=false" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=somya-ctrl&background=0A101F&border=232B3D&ring=A78BFA&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=5B6478&dates=5B6478" alt="GitHub Streak" />
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somya-ctrl&theme=radical" />
-</p>
+<table width="100%">
+<tr>
+<td width="49%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://somya-ctrl.vercel.app/api?username=somya-ctrl&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://somya-ctrl.vercel.app/api?username=somya-ctrl&show_icons=true&hide_rank=true&hide_border=true&bg_color=F3F4F6&title_color=0891B2&icon_color=10B981&text_color=111827" />
+  <img width="100%" src="https://somya-ctrl.vercel.app/api?username=somya-ctrl&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB" alt="GitHub Stats" />
+</picture>
+
+</td>
+<td width="49%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://somya-ctrl.vercel.app/api/top-langs/?username=somya-ctrl&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://somya-ctrl.vercel.app/api/top-langs/?username=somya-ctrl&layout=compact&hide_border=true&bg_color=F3F4F6&title_color=0891B2&text_color=111827" />
+  <img width="100%" src="https://somya-ctrl.vercel.app/api/top-langs/?username=somya-ctrl&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
+</picture>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/output/github-snake.svg" />
-</p>
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/somya-ctrl/somya-ctrl/output/github-snake.svg" />
+</picture>
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Somya Agarwal](https://www.linkedin.com/in/somya-agarwal-159037382)
-- 📧 Email: agarwalsomya224@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/somya-agarwal-159037382">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:agarwalsomya224@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=somya-ctrl&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-
-
